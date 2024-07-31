@@ -1,4 +1,4 @@
-my_list = ['apple', 'banana', 'coconut' ,'peach' ,'c' ]
+my_list = ['apple', 'banana', 'coconut', 'peach', 'Ananas']
 print(my_list)
 # print(my_list[0], my_list[4]) - можно вот так вывести на экран
 print(my_list[0:5:4])
